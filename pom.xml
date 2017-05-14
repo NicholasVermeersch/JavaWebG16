@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mycompany</groupId>
-    <artifactId>spring4_MAVEN_security1_JDBC</artifactId>
+    <artifactId>JavaWeb-G16</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>spring4_MAVEN_security1_JDBC</name>
+    <name>JavaWeb-G16</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
