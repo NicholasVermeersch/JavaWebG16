@@ -25,7 +25,12 @@
     background: #fff;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
-    border: 1px solid #000;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+#login-box:hover{
+    border:none;
 }
 
 #logo{
@@ -71,7 +76,7 @@
     padding:10px;
 }
 
-#loginbutton.hover{
+#loginbutton:hover{
     background-color:indianred;
 }
 
