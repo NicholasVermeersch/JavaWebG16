@@ -17,19 +17,22 @@
         </div>
         <div class="lc-block">
             <h1>Peerassessment</h1>
+            <form action="assessementIndienden" method="post">
             <label>Enthousiasme en participatie</label>
-            <input id="input" name="participatie"  type="text" /> <br>
+            <input id="1" name="participatie"  type="text" /> <br>
             <label>Ideeën aanbrengen</label>
-            <input id="input" name="Ideeen"  type="text"  /><br>
+            <input id="2" name="Ideeen"  type="text"  /><br>
             <label>Inhouden correct en duidelijk kunnen uitleggen</label>
-            <input id="input" name="InhoudUitleggen" type="text" /><br>
+            <input id="3" name="InhoudUitleggen" type="text" /><br>
             <label>groep organiseren en sturen</label>
-            <input id="input" name="Organiseren" type="text"  /><br>
+            <input id="4" name="Organiseren" type="text"  /><br>
             <label>Precisie en nauwkeurigheid</label>
-            <input  id="input" name="Precisie" type="text" /><br>
+            <input  id="5" name="Precisie" type="text" /><br>
             <label>Afspraken respecteren</label>
-            <input  id="input" name="Afspraken" type="text" /><br>
+            <input  id="6" name="Afspraken" type="text" /><br>
             <input id="Assessment" name="submit" type="submit" value="Login" />
+            </form>
+            
         </div>
 
     </body>
