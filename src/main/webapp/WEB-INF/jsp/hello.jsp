@@ -3,6 +3,8 @@
 <html>
     <head>
         <title>Hoofdpagina</title>
+         <spring:url value="/css/style.css" var="urlCss"/>
+       <link rel="stylesheet" href="${urlCss}" type="text/css" />
     </head>
     <body>
         <div class="lc-block">
